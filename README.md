@@ -1,7 +1,4 @@
-**VIDEO ODOVZDAVKY č.2**    :   
-src/main/java/sk.tuke.fei.kpi.puchy/diagrams/KP_ODOVZDAVKA2.mkv
-
-**19. Dots - Viktor Puchý**
+**Dots - Viktor Puchý**
 Odkaz:	 	https://itunes.apple.com/us/app/dots-....
 Ako hrať:	https://www.youtube.com/watch?v=xKF6KNIh_mw
 Popis:		Cieľom je spojiť body rovnakej farby vertikálne alebo horizontálne, kým má hráč zostavájúce pohyby.
