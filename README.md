@@ -1,3 +1,6 @@
+Spustenie na http://localhost:8080/dots - nutnosť spustiť GameStudioServer
+Spustenie v konzole - nutnosť spustiť GameStudioServer + SpringClient
+
 **Dots - Viktor Puchý**
 Odkaz:	 	https://itunes.apple.com/us/app/dots-....
 Ako hrať:	https://www.youtube.com/watch?v=xKF6KNIh_mw
