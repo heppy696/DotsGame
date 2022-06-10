@@ -1,0 +1,18 @@
+
+
+GET http://localhost:8080/api/score/Dots 6x6
+
+//@get_rating
+//GET http://localhost:8080/api/rating/{{game}};
+
+//@R
+
+
+
+//POST http://localhost:8080/api/rating
+//Content-Type: application/json
+//{
+//"rating": 1
+//}
+
+
